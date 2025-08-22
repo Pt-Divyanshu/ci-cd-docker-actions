@@ -1,19 +1,26 @@
+
+---
+
+# 3️⃣ Kubernetes Manifests  
+
+### `k8s/deployment.yml`
+```yaml
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: ci-cd-demo
+  name: flask-app
 spec:
-  replicas: 1
+  replicas: 2
   selector:
     matchLabels:
-      app: ci-cd-demo
+      app: flask-app
   template:
     metadata:
       labels:
-        app: ci-cd-demo
+        app: flask-app
     spec:
       containers:
-      - name: ci-cd-demo
-        image: your-dockerhub-username/ci-cd-demo:latest
-        ports:
-        - containerPort: 5000
+        - name: flask-app
+          image: divyanshush/ci-cd-demo:latest
+          ports:
+            - containerPort: 5000
