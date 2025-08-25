@@ -1,4 +1,4 @@
-name: DEMO CI/CD Pipeline
+name: DEMO CI/CD Pipeline Setup
 
 on:
   push:
