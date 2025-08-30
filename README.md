@@ -56,9 +56,6 @@ You should see:
 Hello from CI/CD with GitHub Actions & Docker!
 ----
 📸 Screenshots
- - `github-actions.png` → GitHub Actions success page  
-   - `docker-hub.png` → Docker Hub repo page  
-   - `minikube-app.png` → Browser window showing Flask app.
 
 1. GitHub Actions Workflow Success
 
@@ -88,15 +85,7 @@ CI/CD workflow results (screenshot)
 
 Screenshot of deployed app
 
-🎯 Project is fully functional and submission-ready!
-
-
----
-
-⚡ To finish:  
-1. Create a folder `screenshots/` in your repo.  
-2. Save your images as:  
-   - `github-actions.png` → GitHub Actions success page  
+ - `github-actions.png` → GitHub Actions success page  
    - `docker-hub.png` → Docker Hub repo page  
-   - `minikube-app.png` → Browser window showing Flask app  
-3. Push everything to GitHub.
+   - `minikube-app.png` → Browser window showing Flask app
+
