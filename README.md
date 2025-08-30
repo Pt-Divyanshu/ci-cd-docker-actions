@@ -66,6 +66,7 @@ Example:
 ✅ GitHub Actions Workflow Success
 
 ✅ Docker Hub Image
+https://hub.docker.com/repository/docker/divyanshush/ci-cd-demo/general
 
 ✅ Minikube Service
 
