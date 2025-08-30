@@ -65,15 +65,6 @@ Example:
 
 📸 Screenshots
 
-### ✅ GitHub Actions Workflow Success  
-<img src="github%20workflows.png" alt="GitHub Actions Workflow" width="700">
-
-----
-### 🐳 Docker Image on DockerHub  
-<img src="Docker%20image.png" alt="Docker Image" width="700">
-
-
-
 ### 🌐 Flask App Running in Browser  
 <img src="smaple%20app.png" alt="Sample App Output" width="700">
 
