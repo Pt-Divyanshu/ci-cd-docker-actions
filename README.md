@@ -48,6 +48,7 @@ ci-cd-docker-actions/
 ### Step 1: Clone the repo
 git clone https://github.com/Pt-Divyanshu/ci-cd-docker-actions.git
 cd ci-cd-docker-actions
+
 2️⃣ Run with Minikube
 minikube start
 kubectl apply -f k8s/deployment.yml
