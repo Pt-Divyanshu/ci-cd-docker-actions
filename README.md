@@ -56,6 +56,10 @@ You should see:
 Hello from CI/CD with GitHub Actions & Docker!
 ----
 📸 Screenshots
+ - `github-actions.png` → GitHub Actions success page  
+   - `docker-hub.png` → Docker Hub repo page  
+   - `minikube-app.png` → Browser window showing Flask app.
+
 1. GitHub Actions Workflow Success
 
 Proof that CI/CD ran successfully:
@@ -65,7 +69,7 @@ Proof that CI/CD ran successfully:
 
 Image pushed successfully:
 👉 Docker Hub Link
-
+https://hub.docker.com/repository/docker/divyanshush/ci-cd-demo/general
 
 
 3. Flask App Running via Minikube
