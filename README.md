@@ -63,14 +63,26 @@ Example:
 👉 http://127.0.0.1:64812
 
 📸 Screenshots
-✅ GitHub Actions Workflow Success
+### 1. Application Output
+The deployed Flask app running in the browser:
 
-✅ Docker Hub Image
-https://hub.docker.com/repository/docker/divyanshush/ci-cd-demo/general
+![Sample App Output](smaple%20app.png)
 
-✅ Minikube Service
+---
 
-✅ Flask App Running
+### 2. Docker Images
+Docker Desktop showing the built image and its details:
+
+![Docker Images](Docker%20image.png)
+
+---
+
+### 3. GitHub Actions Workflow Success
+Successful CI/CD pipeline execution on GitHub:
+
+![GitHub Workflows](github%20workflows.png)
+
+---
 
 🎯 Output
 
