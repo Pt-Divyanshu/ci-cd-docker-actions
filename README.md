@@ -63,26 +63,26 @@ Example:
 👉 http://127.0.0.1:64812
 
 📸 Screenshots
-### 1. Application Output
-The deployed Flask app running in the browser:
 
-![Sample App Output](smaple%20app.png)
-
----
-
-### 2. Docker Images
-Docker Desktop showing the built image and its details:
-
-![Docker Images](Docker%20image.png)
+### ✅ GitHub Actions Workflow Success  
+<img src="github%20workflows.png" alt="GitHub Actions Workflow" width="700">
 
 ---
 
-### 3. GitHub Actions Workflow Success
-Successful CI/CD pipeline execution on GitHub:
-
-![GitHub Workflows](github%20workflows.png)
+### 🐳 Docker Image on DockerHub  
+<img src="Docker%20image.png" alt="Docker Image" width="700">
 
 ---
+
+### 🌐 Flask App Running in Browser  
+<img src="smaple%20app.png" alt="Sample App Output" width="700">
+
+---
+
+## 🔗 Useful Links
+- [DockerHub Repository](https://hub.docker.com/r/divyanshush/ci-cd-demo)  
+- [GitHub Repository](https://github.com/Pt-Divyanshu/ci-cd-docker-actions)
+  ---
 
 🎯 Output
 
@@ -93,6 +93,6 @@ Hello from CI/CD with GitHub Actions & Docker!
 👨‍💻 Author
 
 Divyanshu Sharma
-----
+
 
 
