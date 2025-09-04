@@ -65,7 +65,8 @@ Example:
 
 📸 Screenshots
 
-### 🌐 Flask App Running in Browser  
+### 🌐 Flask App Running in Browser 
+
 <img src="screenshots/flask-app.png" width="400px">
 
 
