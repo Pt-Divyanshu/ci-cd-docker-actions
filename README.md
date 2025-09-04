@@ -67,7 +67,8 @@ Example:
 
 ### 🌐 Flask App Running in Browser 
 
-<img src="screenshots/flask-app.png" width="400px">
+<img width="422" height="30" alt="smaple app" src="https://github.com/user-attachments/assets/cfd49a1e-1b63-4d4d-820d-9fe9869bc49e" />
+
 
 
 ---
