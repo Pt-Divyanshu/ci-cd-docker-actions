@@ -69,6 +69,8 @@ Example:
 
 <img width="422" height="30" alt="smaple app" src="https://github.com/user-attachments/assets/cfd49a1e-1b63-4d4d-820d-9fe9869bc49e" />
 
+
+
 <img width="597" height="211" alt="minikube flask-app" src="https://github.com/user-attachments/assets/f7efece3-4a0e-41cb-9187-be17cced8374" />
 
 <img width="1437" height="682" alt="github workflows" src="https://github.com/user-attachments/assets/f1a12846-0a69-4311-9244-80e807003566" />
